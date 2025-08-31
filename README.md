@@ -48,9 +48,9 @@ Want to <b>collaborate?</b> I'd be happy to! You can reach me through the follow
   But poetry, beauty, romance, love, this is what we stay alive for. <br>"
   - N.H Kleinbaum, Dead Poets Society </i> 
 </blockquote> 
-
-
 </hr>
+
+
 <!---
 mrdimaculangan/mrdimaculangan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
