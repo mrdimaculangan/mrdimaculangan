@@ -30,11 +30,12 @@ Want to <b>collaborate?</b> I'd be happy to! You can reach me through the follow
 
 <img align ="right" width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4Y2pzaWpvZnF0Z3V6d2RkdjRoenU1Y29yeTF4azN0MjFsemoyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ck6eTujBYdaVRry9Ie/giphy.gif">
 
-<h2> <b> 𝒎𝒐𝒓𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚ </b> </h2>
+<h2> <b> 𝒇𝒖𝒏 𝒇𝒂𝒄𝒕𝒔 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚ </b> </h2>
 <ul style="list-style-type:none;">
-  <li> ⭐ Hobbies</li>
-  <li> 🎞️ Favorite Movies </li>
-  <li> 🎥 Favorite Shows </li>
+  <li> ⭐ Hobbies: Dancing, Reading, Puzzle Games </li>
+  <li> 🎞️ Favorite Movies: Dead Poets Society, the Nun  </li>
+  <li> 🎥 Favorite Shows: House M.D,  </li>
+  <li> 🏯 Favorite Anime: Bungou Stray Dogs, Apothecary Diaries </li>
 </ul>
 
 </p>
