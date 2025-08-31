@@ -29,19 +29,24 @@ Want to <b>collaborate?</b> I'd be happy to! You can reach me through the follow
 
 
 <img align ="right" width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4Y2pzaWpvZnF0Z3V6d2RkdjRoenU1Y29yeTF4azN0MjFsemoyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ck6eTujBYdaVRry9Ie/giphy.gif">
-<p align ="left"> 
-> <b> More about me! ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚ </b> <br>
+
+<h2> <b> 𝒎𝒐𝒓𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆 ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚ </b> </h2>
+<ul style="list-style-type:none;">
+  <li> ⭐ Hobbies</li>
+  <li> 🎞️ Favorite Movies </li>
+  <li> 🎥 Favorite Shows </li>
+</ul>
 
 </p>
 
 <img align="right" width="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3dG5jcnB4MDJsaW43bWE4N282aHVqZjVzOWQxZHp6aHZobmh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpzOdXKdRvVoGiHxrE/giphy.gif"/> 
 <img align="left" width="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3dG5jcnB4MDJsaW43bWE4N282aHVqZjVzOWQxZHp6aHZobmh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpzOdXKdRvVoGiHxrE/giphy.gif"/> 
-<p align ="center"> 
+<blockquote align ="center"> 
    <i> "Medicine, Law, Business, Engineering <br>
   -- these are noble pursuits and are necessary to sustain life. <br>
   But poetry, beauty, romance, love, this is what we stay alive for. <br>"
   - N.H Kleinbaum, Dead Poets Society </i> 
-</p> 
+</blockquote> 
 
 
 </hr>
