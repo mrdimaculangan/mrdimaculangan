@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="https://github.com/mrdimaculangan/mrdimaculangan/" height="200"/>
+</p>
 
 <p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A1bGprODY5eGNmcmpuMHNqa2h1NTJwcDEwNXVyeDQ5eWZlbnFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kn873OgBLW0oLWAxN9/giphy.gif" width="25" /> 
