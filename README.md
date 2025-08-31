@@ -27,6 +27,13 @@ Want to <b>collaborate?</b> I'd be happy to! You can reach me through the follow
 
 <hr>
 
+
+<img align ="right" width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4Y2pzaWpvZnF0Z3V6d2RkdjRoenU1Y29yeTF4azN0MjFsemoyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ck6eTujBYdaVRry9Ie/giphy.gif">
+<p align ="left"> 
+> <b> More about me! ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚ </b> <br>
+
+</p>
+
 <img align="right" width="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3dG5jcnB4MDJsaW43bWE4N282aHVqZjVzOWQxZHp6aHZobmh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpzOdXKdRvVoGiHxrE/giphy.gif"/> 
 <img align="left" width="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3dG5jcnB4MDJsaW43bWE4N282aHVqZjVzOWQxZHp6aHZobmh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpzOdXKdRvVoGiHxrE/giphy.gif"/> 
 <p align ="center"> 
@@ -35,7 +42,6 @@ Want to <b>collaborate?</b> I'd be happy to! You can reach me through the follow
   But poetry, beauty, romance, love, this is what we stay alive for. <br>"
   - N.H Kleinbaum, Dead Poets Society </i> 
 </p> 
-
 
 
 </hr>
