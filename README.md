@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mari-cover.png" height="350" "/>
+  <img src="assets/mari-cover.png" alt ="mari-cover" height="350" />
 </p>
 
 
@@ -12,26 +12,31 @@
 </h3>
 
 <p align="center">
-I am an enthusiastic third-year student at the <b> University of the Philippines - Manila </b>, currently pursuing a degree in <i> BS Computer Science </i>💻 specializing in Health Informatics 🩺 🏥 I am passionate about front-end development, while also interested in other fields such as <i> Database System Management</i> 🗒️ and <i> Cybersecurity</i> :lock: 
+I am an enthusiastic third-year student at the <b> University of the Philippines - Manila </b>, currently pursuing a degree in <i> BS Computer Science </i>💻 specializing in Health Informatics 🩺 🏥 I am passionate about <i>front-end development</i>🖌️🌹, while also interested in other fields such as <i> Database System Management</i> 🗒️ and <i> Cybersecurity</i> :lock: 
 </p>
 <p align="center">
-Want to collaborate? I'd be happy to! You can reach me through the following links below 🌻
+Want to <b>collaborate?</b> I'd be happy to! You can reach me through the following links below 🌻
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marian-dimaculangan-b04b28334/?originalSubdomain=ph" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mari-linked-in" height="30" width="40" /></a> 
-<a href = "mailto: mari.rigor17@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marian-dimaculangan-b04b28334/?originalSubdomain=ph" target="blank"><img align="center" src="assets/linked-in.png" alt="mari-linked-in" height="40" width="40" /></a> 
+<a href = "mailto: mari.rigor17@gmail.com"><img align="center" src="assets/gmail.png" alt ="gmial" height="40" width="40" /></a>
 </p>
 
 </hr>
 
 <hr>
-<p> 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A1bGprODY5eGNmcmpuMHNqa2h1NTJwcDEwNXVyeDQ5eWZlbnFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kn873OgBLW0oLWAxN9/giphy.gif" width="25" /> 
-  <b><i> Ad astrum per astra or sumn </i></b> 
-<img       
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnByNjFzZHRza3A1azBidW84bG9tbDVlYXMzdnpwN3c2MDRtemFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26203pm683rISaQwux/giphy.gif" width="25" />
+
+<img align="right" width="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3dG5jcnB4MDJsaW43bWE4N282aHVqZjVzOWQxZHp6aHZobmh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpzOdXKdRvVoGiHxrE/giphy.gif"/> 
+<img align="left" width="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3dG5jcnB4MDJsaW43bWE4N282aHVqZjVzOWQxZHp6aHZobmh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpzOdXKdRvVoGiHxrE/giphy.gif"/> 
+<p align ="center"> 
+   <i> "Medicine, Law, Business, Engineering <br>
+  -- these are noble pursuits and are necessary to sustain life. <br>
+  But poetry, beauty, romance, love, this is what we stay alive for. <br>"
+  - N.H Kleinbaum, Dead Poets Society </i> 
 </p> 
+
+
 
 </hr>
 <!---
